@@ -1,0 +1,17 @@
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/bin/Debug/net7.0/PizzaFactory
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/bin/Debug/net7.0/PizzaFactory.deps.json
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/bin/Debug/net7.0/PizzaFactory.runtimeconfig.json
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/bin/Debug/net7.0/PizzaFactory.dll
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/bin/Debug/net7.0/PizzaFactory.pdb
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.csproj.AssemblyReference.cache
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.AssemblyInfoInputs.cache
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.AssemblyInfo.cs
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.csproj.CoreCompileInputs.cache
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.csproj.CopyComplete
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.dll
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/refint/PizzaFactory.dll
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.pdb
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/PizzaFactory.genruntimeconfig.cache
+/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/obj/Debug/net7.0/ref/PizzaFactory.dll

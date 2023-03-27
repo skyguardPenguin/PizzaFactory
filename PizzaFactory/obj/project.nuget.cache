@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GXzVX1dMfcyusPk60//hRSyP7WCcGKc+0MTvnSXzBj5FNr7rT/h/JdGTxRz7r/Qp3GNMfohh/C15/FUI2Fn2EQ==",
+  "success": true,
+  "projectFilePath": "/home/skyguardp/Documents/Escuela/semestre8/patronesDeDiseño/programas/PizzaFactory/PizzaFactory/PizzaFactory.csproj",
+  "expectedPackageFiles": [
+    "/home/skyguardp/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
